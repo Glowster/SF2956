@@ -1,0 +1,63 @@
+*.mp3
+*.zip
+*.wav
+*.memmap
+*.npy
+*.npz
+*.parquet
+.ipynb_checkpoints/
+*.memmap
+\n+# Data directories
+/fma/
+/fma/fma_small_extracted/
+/stft_np/
+/Software/Data/
+
+# Media and large dataset files
+*.flac
+*.aac
+*.m4a
+*.mp4
+*.mkv
+*.avi
+
+# Array/binary scientific data
+*.npy
+*.npz
+*.npy.gz
+*.npz.gz
+*.mat
+*.h5
+*.hdf5
+
+# Tabular and exchange formats
+*.csv
+*.tsv
+*.jsonl
+*.parquet
+
+# Serialized objects and caches
+*.pkl
+*.pickle
+*.joblib
+
+# Archives and compressed
+*.tar
+*.tar.gz
+*.tgz
+*.bz2
+*.xz
+*.Z
+
+# Plots, figures, and images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+
+# Logs and local databases
+*.log
+*.sqlite
+*.db
